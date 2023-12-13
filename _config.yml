@@ -13,4 +13,4 @@ favicon: ./assets/img/favicon.png
 favicon_dark: ./assets/img/favicon-dark.png
 description: 
 canonical: 
-remote_theme: 
+remote_theme: yaoyao-liu/strata-academic
