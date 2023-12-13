@@ -16,15 +16,14 @@ layout: homepage
   <br>
   Machine Learning for Healthcare 2022.
   <br>
-  [[PDF](https://static1.squarespace.com/static/59d5ac1780bd5ef9c396eda6/t/62e97e4cdcda5d1fe33ff93e/1659469388587/92+MBV2_mlforhc_v4.pdf)] <strong><i style="color:#e74d3c">Oral Presentation</i></strong>
+  [[PDF](https://static1.squarespace.com/static/59d5ac1780bd5ef9c396eda6/t/62e97e4cdcda5d1fe33ff93e/1659469388587/92+MBV2_mlforhc_v4.pdf)] 
 
 
 ## Selected Talks
 
 - **Long-covid GWAS using RNN-based phenotypes**
-
-  <br>
-  All of Us Extramural Program to Advance Research Symposium, U.S, Sep 2022
+<br>
+ All of Us Extramural Program to Advance Research Symposium, U.S, Sep 2022
 
 
 ## Services
