@@ -1,10 +1,12 @@
 ---
 layout: homepage
 ---
+## About me
+I'm a third-year Biostatistics PhD cancidate in School of Public Health, UT Health, supervised by [Dr.Wenyi Wang](https://odin.mdacc.tmc.edu/~wwang7/tutorials.html) from The University of Texas MD Anderson Cancer Center. Prior to my PhD, I obtained my Bachelor's and Master's degree in Mathmatics and Quantitative Risk Management from The Ohio State University. 
 
-## Research Interests
+My research interest lies in optimization, high-dimensional data analysis, machine learning techniques and their applications on clinical data. 
 
-- **Statistics & Biostatistics:** Optimzation, high-dimensional data analysis, mechine learning 
+Outside my research, I enjoying hiking and spending time with my dog and cat.
 
 ## News
 
