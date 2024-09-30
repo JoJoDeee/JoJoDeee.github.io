@@ -2,7 +2,7 @@
 layout: homepage
 ---
 ## About me
-  I'm a fourth-year Biostatistics PhD cancidate in School of Public Health, UT Health, supervised by [Dr.Wenyi Wang](https://odin.mdacc.tmc.edu/~wwang7/tutorials.html) from The University of Texas MD Anderson Cancer Center. Prior to my PhD, I obtained my Bachelor's and Master's degree in Mathmatics and Quantitative Risk Management from The Ohio State University. 
+  I'm a fourth-year Biostatistics PhD cancidate in School of Public Health, UT Health, supervised by [Dr.Wenyi Wang](https://odin.mdacc.tmc.edu/~wwang7/tutorials.html) from The University of Texas MD Anderson Cancer Center. Prior to my PhD, I obtained my Bachelor's in Mathmatics (Acturial track) and Master's degree in Acturial & Quantitative Risk Management from The Ohio State University. 
 
   My research interest lies in spatial transcriptomic data decovolution, optimization, machine learning and deep learning techniques and application in clinical field.
 
